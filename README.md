@@ -8,3 +8,6 @@
 - Sinta-se à vontade para explorar o código, analisar sua lógica e adaptá-lo para suas necessidades. Caso tenha alguma dúvida ou sugestão, fique à vontade para entrar em contato.
 
 - Espero que esse exemplo possa ajudá-lo a compreender melhor a linguagem Assembly-MIPS e sua aplicação na organização de computadores.
+
+## Pré-requisitos
+Para executar o código em Assembly-MIPS, você precisa ter acesso a um ambiente de desenvolvimento que ofereça suporte à simulação de programas Assembly-MIPS. Um exemplo comum é o simulador MARS (MIPS Assembler and Runtime Simulator).
